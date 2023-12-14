@@ -22,7 +22,7 @@ Coming soon !
 
 
 
-## Citation=
+## Citation
 If you find our paper or dataset useful, please give us a citation.
 ```bash
 @article{zhou2023multi,
