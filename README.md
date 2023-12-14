@@ -11,9 +11,9 @@ Passwd：2023
 
 
 # Requirements
-python3.7
-pytorch1.11.0
-cuda11.3
+* python3.7
+* pytorch1.11.0
+* cuda11.3
 
 
 # Code
