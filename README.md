@@ -1,5 +1,5 @@
 # multi-view-3DGPR
-The referencen code of paper Multi-View Fusion and Distillation for Subgrade Distresses Detection based on 3D-GPR
+The referencen code of paper $Multi-View Fusion and Distillation for Subgrade Distresses Detection based on 3D-GPR$
 
 Please cite the paper if you find our code or paper useful:
 
