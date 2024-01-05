@@ -1,7 +1,7 @@
 # multi-view-3DGPR
 The referencen code of paper **Multi-View Fusion and Distillation for Subgrade Distresses Detection based on 3D-GPR**
 ![image](https://github.com/zhouchunpong/multi-view-3DGPR/assets/6890539/71a8494a-c189-45e1-a458-681ea5661a30)
-
+If you want to known more about this dataset and new method, please read our paper [link](arxiv.org/abs/2308.04779).
 
 
 # multi-view-3DGPR Dataset
