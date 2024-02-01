@@ -23,8 +23,19 @@ Passwd：2023
 * cuda 11.3
 
 
-# Code
-Coming soon !
+## Usages
+
+To train the model described in the paper, run the following command:
+
+```
+python ./code/train_DenseNet121_MVFD.py
+```
+
+To evaluate the trained model, run the following command:
+
+```
+python ./code/test_DenseNet121_MVFD.py
+```
 
 
 
