@@ -1,3 +1,6 @@
+# 2024 Update
+We provide Google drive link for our dataset download.
+
 # multi-view-3DGPR
 The referencen code of paper **Multi-View Fusion and Distillation for Subgrade Distresses Detection based on 3D-GPR**
 ![image](https://github.com/zhouchunpong/multi-view-3DGPR/assets/6890539/71a8494a-c189-45e1-a458-681ea5661a30)
@@ -18,8 +21,11 @@ based fusion and multi-view distillation to facilitate significant feature extra
 
 The dataset is available at now: 
 
-Link：https://pan.baidu.com/s/14uZ6F0NbQxgwfaWTERQX2Q 
+Baidu Drive Link：https://pan.baidu.com/s/14uZ6F0NbQxgwfaWTERQX2Q 
 Passwd：2023
+
+Google Drive Link：https://drive.google.com/drive/folders/1TbZCAUq7GEWRk7dUo3CmuhyE1DUnKoen?usp=sharing
+
 
 
 # Requirements
