@@ -11,8 +11,8 @@ import time
 import os
 from torch.autograd import Variable
 from torch.optim.lr_scheduler import MultiStepLR, ReduceLROnPlateau
-from data2 import get_problem, subset_random_sampler
-from models.densenet_SwitOKD_Attention_base import densenet121
+from data import get_problem, subset_random_sampler
+from models.densenet_MVFD import densenet121
 import csv
 from datetime import datetime
 
