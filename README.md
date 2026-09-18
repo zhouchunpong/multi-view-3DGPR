@@ -1,3 +1,6 @@
+For security reasons, we remove the open access to the dataset; we apologize for the inconvenience.
+
+
 # 2024 Update
 We provide Google drive link for our dataset download.
 
@@ -17,14 +20,6 @@ based fusion and multi-view distillation to facilitate significant feature extra
 
 
 <img src="https://github.com/zhouchunpong/multi-view-3DGPR/assets/6890539/efecdad8-08b3-48f1-b845-077b9f7c08c9"  width="50%" />
-
-
-The dataset is available at now: 
-
-Baidu Drive Link：https://pan.baidu.com/s/14uZ6F0NbQxgwfaWTERQX2Q 
-Passwd：2023
-
-Google Drive Link：https://drive.google.com/drive/folders/1TbZCAUq7GEWRk7dUo3CmuhyE1DUnKoen?usp=sharing
 
 
 
